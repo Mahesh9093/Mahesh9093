@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahesh-baviskar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahesh-baviskar&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat)
 
 </div>
 
@@ -84,11 +84,11 @@
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-baviskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-baviskar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahesh-baviskar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
