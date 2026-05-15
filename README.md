@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahesh-baviskar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahesh-baviskar&color=0e75b6&style=flat)
+
 
 </div>
 
